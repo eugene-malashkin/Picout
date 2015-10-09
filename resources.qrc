@@ -1,0 +1,7 @@
+<RCC>
+<qresource prefix="/">
+	<file>LeftClick.png</file>
+	<file>RightClick.png</file>
+</qresource>
+</RCC>
+
